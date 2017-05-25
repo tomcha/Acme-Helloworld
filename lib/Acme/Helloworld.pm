@@ -5,7 +5,7 @@ use warnings;
 
 our $VERSION = "0.01";
 
-
+print "Hello, world\n";
 
 1;
 __END__
@@ -22,7 +22,7 @@ Acme::Helloworld - It's new $module
 
 =head1 DESCRIPTION
 
-Acme::Helloworld is ...
+Acme::Helloworld is a module of a different way of writing the first program to write.
 
 =head1 LICENSE
 
