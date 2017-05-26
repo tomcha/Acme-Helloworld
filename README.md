@@ -1,6 +1,6 @@
 # NAME
 
-Acme::Helloworld - It's new $module
+Acme::Helloworld - output 'Hello, world'
 
 # SYNOPSIS
 
@@ -8,7 +8,7 @@ Acme::Helloworld - It's new $module
 
 # DESCRIPTION
 
-Acme::Helloworld is ...
+Acme::Helloworld is a module of a different way of writing the first program to write.
 
 # LICENSE
 

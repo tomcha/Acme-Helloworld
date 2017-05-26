@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "output 'Hello, world'",
    "author" : [
       "tomcha <tomcha@tomcha.net>"
    ],

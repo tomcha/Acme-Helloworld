@@ -14,7 +14,7 @@ __END__
 
 =head1 NAME
 
-Acme::Helloworld - It's new $module
+Acme::Helloworld - output 'Hello, world'
 
 =head1 SYNOPSIS
 
