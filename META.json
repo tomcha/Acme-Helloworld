@@ -52,6 +52,18 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tomcha/Acme-Helloworld/issues"
+      },
+      "homepage" : "https://github.com/tomcha/Acme-Helloworld",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tomcha/Acme-Helloworld.git",
+         "web" : "https://github.com/tomcha/Acme-Helloworld"
+      }
+   },
    "version" : "0.01",
+   "x_authority" : "cpan:TOMCHA",
    "x_serialization_backend" : "JSON::PP version 2.27300"
 }

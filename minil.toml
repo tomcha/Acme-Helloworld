@@ -1,4 +1,4 @@
 name = "Acme-Helloworld"
 # badges = ["travis"]
 module_maker="ModuleBuildTiny"
-
+authority = "cpan:TOMCHA"
